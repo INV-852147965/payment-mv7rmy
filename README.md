@@ -1,8 +1,10 @@
 2026/09/15 22:02:27
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: deliaelastic@comcast.net, jcd47@att.net
-At: 2026-09-15 22:03:25
-Id: EbIXr2VH
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: zeng77@sbcglobal.net, julie_1@bellsouth.net
+At: 2026-09-15 22:04:04
+Id: sCSgyH8r
